@@ -1,0 +1,132 @@
+Key Takeaways from Overall Line Movement Data (ATS Performance)
+This data breaks down how opening favorites perform ATS (Against the Spread) based on the overall line movement, whether it moves toward the favorite or underdog.
+
+1. When the Line Moves 3+ Points Toward the Favorite
+Overall Record: 50.9% ATS (891-860-28)
+
+Best ATS Performance:
+
+Opening favorites of 3-6.5 points: 52.4% (231-210-9)
+
+Opening favorites of 1-2.5 points: 52.3% (181-165-8)
+
+Worst ATS Performance:
+
+Opening favorites of 10-13.5 points: 47.0% (102-115-2)
+
+Key Insight:
+
+Small to moderate favorites (1-6.5 points) perform above 52% ATS when the line moves 3+ points in their favor.
+
+Double-digit favorites (10-13.5 points) struggle when the line moves 3+ in their favor (47.0%), suggesting possible overreaction.
+
+2. When the Line Moves 2 to 2.5 Points Toward the Favorite
+Overall Record: 50.8% ATS (2267-2194-72)
+
+Best ATS Performance:
+
+Opening favorites of 10-13.5 points: 54.6% (277-230-9)
+
+Worst ATS Performance:
+
+Opening favorites of 1-2.5 points: 49.4% (563-576-14)
+
+Key Insight:
+
+Moderate movement (2-2.5 points) toward double-digit favorites (10-13.5) is a strong betting signal (54.6% ATS).
+
+Otherwise, this range of movement doesn’t indicate a major edge.
+
+3. When the Line Moves 0.5 to 1.5 Points Toward the Favorite
+Overall Record: 49.6% ATS (12142-12330-479)
+
+Best ATS Performance:
+
+Small favorites (1-9.5 points) hover around 50.1-50.2%.
+
+Worst ATS Performance:
+
+Opening favorites of 10-13.5 points: 48.0% (1466-1587-52)
+
+Opening favorites of 14+ points: 47.6% (1368-1503-52)
+
+Key Insight:
+
+This movement (0.5 to 1.5 points) shows no real edge in most cases.
+
+Large favorites (10+ points) with this movement tend to struggle ATS (~48%).
+
+4. When the Line Stays the Same (No Movement)
+Overall Record: 50.2% ATS (7678-7606-313)
+
+Best ATS Performance:
+
+Small favorites (1-6.5 points) cover slightly above 51%.
+
+Worst ATS Performance:
+
+Larger favorites (7+ points) cover below 50%.
+
+Key Insight:
+
+If the line doesn’t move, there’s no real betting edge, but smaller favorites (1-6.5 points) perform slightly better than big ones.
+
+5. When the Line Moves 0.5 to 1.5 Points Toward the Underdog
+Overall Record: 50.0% ATS (10597-10608-422)
+
+Best ATS Performance:
+
+Small favorites (1-2.5 points): 51.4% (1179-1113-46)
+
+Worst ATS Performance:
+
+Double-digit favorites (10-14+ points): 48.7-49.3% ATS
+
+Key Insight:
+
+Small favorites (1-2.5 points) perform slightly better when the line moves against them.
+
+Large favorites (10+ points) perform worse when the line moves against them.
+
+6. When the Line Moves 2 to 2.5 Points Toward the Underdog
+Overall Record: 50.8% ATS (2099-2032-89)
+
+Best ATS Performance:
+
+Small favorites (1-2.5 points): 52.5% (499-451-17)
+
+Moderate favorites (10-13.5 points): 51.7% (382-357-17)
+
+Worst ATS Performance:
+
+Favorites of 3-6.5 points: 49.1% (398-412-24)
+
+Key Insight:
+
+If the line moves 2-2.5 points against a favorite, small favorites (1-2.5 points) and moderate favorites (10-13.5 points) still hold up ATS (~52%).
+
+7. When the Line Moves 3+ Points Toward the Underdog
+Overall Record: 50.6% ATS (1259-1231-43)
+
+Best ATS Performance:
+
+Small favorites (1-2.5 points): 51.6% (592-555-15)
+
+Worst ATS Performance:
+
+Moderate to large favorites (7-13.5 points): 49.3% ATS
+
+Key Insight:
+
+Big movement toward an underdog is often an indicator that the favorite will struggle ATS, especially if they’re a bigger favorite (7+ points).
+
+Final Insights & Betting Trends
+📌 Biggest Betting Edges:
+✅ Moderate movement (2-2.5 points) toward a double-digit favorite (10-13.5 points) is a strong signal (54.6% ATS).
+✅ If the line moves 3+ points in favor of a small favorite (1-6.5 points), they tend to cover (52.3-52.4%).
+✅ If the line moves 2-2.5 points toward an underdog, smaller favorites (1-2.5 points) still hold up well ATS (52.5%).
+
+📌 Biggest Betting Fades (Avoid These Favorites):
+❌ Big favorites (10+ points) struggle when the line moves 3+ points in their favor (47.0% ATS).
+❌ If a large favorite (10+ points) gets only a small movement (0.5 to 1.5 points) in their favor, they also struggle (48% ATS).
+❌ When the line moves 3+ points toward the underdog, bigger favorites (7+ points) perform worse ATS (~49%).
