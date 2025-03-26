@@ -1,0 +1,143 @@
+Results Based on Opening Over/Under Line
+Opening Over/Under of 0-125.5
+Movement	# Games	Over Record	Over %
+3+ toward the Over	929	463-446-20	50.9%
+2 or 2.5 toward the Over	749	368-369-12	49.9%
+.5 to 1.5 toward the Over	1538	764-735-39	51.0%
+Closing line is the same as the opening line	984	513-449-22	53.3%
+.5 to 1.5 toward the Under	1019	513-486-20	51.4%
+2 or 2.5 toward the Under	291	151-131-9	53.5%
+3+ toward the Under	195	117-77-1	60.3%
+Total	5705	2889-2693-123	51.8%
+Opening Over/Under of 126-130.5
+Movement	# Games	Over Record	Over %
+3+ toward the Over	889	448-422-19	51.5%
+2 or 2.5 toward the Over	788	387-377-24	50.7%
+.5 to 1.5 toward the Over	1988	979-977-32	50.1%
+Closing line is the same as the opening line	1267	651-595-21	52.2%
+.5 to 1.5 toward the Under	1579	773-777-29	49.9%
+2 or 2.5 toward the Under	523	273-245-5	52.7%
+3+ toward the Under	401	196-200-5	49.5%
+Total	7435	3707-3593-135	50.8%
+Opening Over/Under of 131-135.5
+Movement	# Games	Over Record	Over %
+3+ toward the Over	1262	627-607-28	50.8%
+2 or 2.5 toward the Over	1196	598-576-22	50.9%
+.5 to 1.5 toward the Over	3098	1544-1496-58	50.8%
+Closing line is the same as the opening line	1994	1003-950-41	51.4%
+.5 to 1.5 toward the Under	2569	1279-1246-44	50.7%
+2 or 2.5 toward the Under	870	420-439-11	48.9%
+3+ toward the Under	804	405-386-13	51.2%
+Total	11793	5876-5700-217	50.8%
+Opening Over/Under of 136-140.5
+Movement	# Games	Over Record	Over %
+3+ toward the Over	1321	639-652-30	49.5%
+2 or 2.5 toward the Over	1197	609-571-17	51.6%
+.5 to 1.5 toward the Over	3418	1690-1661-67	50.4%
+Closing line is the same as the opening line	2418	1242-1124-52	52.5%
+.5 to 1.5 toward the Under	3366	1612-1689-65	48.8%
+2 or 2.5 toward the Under	1316	654-636-26	50.7%
+3+ toward the Under	1377	676-677-24	50.0%
+Total	14413	7122-7010-281	50.4%
+Opening Over/Under of 141-145.5
+Movement	# Games	Over Record	Over %
+3+ toward the Over	1354	637-690-27	48.0%
+2 or 2.5 toward the Over	1248	602-626-20	49.0%
+.5 to 1.5 toward the Over	3222	1555-1599-68	49.3%
+Closing line is the same as the opening line	2260	1120-1097-43	50.5%
+.5 to 1.5 toward the Under	3337	1617-1646-74	49.6%
+2 or 2.5 toward the Under	1299	629-648-22	49.3%
+3+ toward the Under	1397	695-675-27	50.7%
+Total	14117	6855-6981-281	49.5%
+Opening Over/Under of 146-150.5
+Movement	# Games	Over Record	Over %
+3+ toward the Over	985	479-487-19	49.6%
+2 or 2.5 toward the Over	870	412-441-17	48.3%
+.5 to 1.5 toward the Over	2367	1202-1121-44	51.7%
+Closing line is the same as the opening line	1553	763-766-24	49.9%
+.5 to 1.5 toward the Under	2667	1298-1316-53	49.7%
+2 or 2.5 toward the Under	1024	536-476-12	53.0%
+3+ toward the Under	1209	600-589-20	50.5%
+Total	10675	5290-5196-189	50.4%
+Opening Over/Under of 151+
+Movement	# Games	Over Record	Over %
+3+ toward the Over	1040	506-519-15	49.4%
+2 or 2.5 toward the Over	902	422-467-13	47.5%
+.5 to 1.5 toward the Over	2268	1127-1098-43	50.7%
+Closing line is the same as the opening line	1588	785-772-31	50.4%
+.5 to 1.5 toward the Under	2851	1409-1390-52	50.3%
+2 or 2.5 toward the Under	1205	578-605-22	48.9%
+3+ toward the Under	1741	814-898-29	47.5%
+Total	11595	5641-5749-205	49.5%
+About the Over/Under Movement Data
+These tables show the number of games that went over the closing totals line, based on the difference between the opening and closing totals line, as well has how high that line opened.
+
+-
+The data is grouped into separate tables based on the opening totals line, ranging from games with low totals to those with high totals. Within the tables, each line represents a different amount of movement away from that original total, ranging from a large move toward the over to a large move toward the under.
+
+Over Record and Over % refer to the number of games that went over vs. under for each matching scenario, measured against the closing total. Pushes are ignored in the calculation of Over %.
+
+
+ChatGPT said:
+Key Takeaways from Over/Under Results by Opening Line
+This dataset examines how total movement relative to the opening line affects Over/Under results.
+
+1. Small Totals (≤125.5) – Strongest Under Trends
+📌 Key Trends:
+✅ **If the total moves 3+ points toward the Under, the Under hits 60.3% (117-77-1).
+✅ If the total moves 2-2.5 points toward the Under, the Under hits 53.5% (151-131-9).
+✅ If the total stays the same, the Over hits 53.3% (513-449-22).
+
+💡 Betting Edge:
+
+Big downward movements (3+ points) in low-scoring games have a strong Under bias (~60%).
+
+No movement? Lean slightly toward the Over (53.3%).
+
+2. Moderate Totals (126-140.5) – No Clear Edge
+📌 Key Trends:
+
+Small movements (0.5-1.5 points) do not provide a strong betting edge (~50%).
+
+The best Under trend is for 2-2.5 point moves downward (52.7% hit rate).
+
+No movement? Slight Over bias (~52%).
+
+💡 Betting Edge:
+
+No major actionable betting strategy here.
+
+Slight Under bias on 2-2.5 point moves downward.
+
+3. Higher Totals (141-150.5) – Mostly Coin Flips
+📌 Key Trends:
+
+3+ point moves toward the Over are weak (~48-49%).
+
+2-2.5 point drops toward the Under show some Under value (~53%).
+
+💡 Betting Edge:
+
+If the total drops 2-2.5 points, consider the Under (~53%).
+
+No strong Over trends.
+
+4. Very High Totals (151+) – Weakest Overs
+📌 Key Trends:
+❌ If the total moves 2-2.5 points toward the Over, the Over hits just 47.5%.
+❌ If the total moves 3+ points toward the Under, the Under hits 52.5%.
+
+💡 Betting Edge:
+
+Avoid the Over if the total moves 2+ points up (~47.5%).
+
+Slight lean on the Under for 3+ point downward movements.
+
+Final Insights & Betting Strategy
+📌 Best Under Bets:
+❌ If a low total (≤125.5) drops 3+ points, bet the Under (~60%).
+❌ If a moderate-to-high total (146-150.5) drops 2-2.5 points, bet the Under (~53%).
+❌ If a very high total (151+) moves 2+ points up, fade the Over (~47.5%).
+
+📌 Best Over Bets:
+✅ If a low total (≤125.5) does not move, bet the Over (~53%).

@@ -1,0 +1,118 @@
+Results Based on Overall Line Movement
+Overall Line Movement of 3+ Toward Over
+Movement	# Games	Over Record	Over %
+Over/Under of 0-125.5	929	463-446-20	50.9%
+Over/Under of 126-130.5	889	448-422-19	51.5%
+Over/Under of 131-135.5	1262	627-607-28	50.8%
+Over/Under of 136-140.5	1321	639-652-30	49.5%
+Over/Under of 141-145.5	1354	637-690-27	48.0%
+Over/Under of 146-150.5	985	479-487-19	49.6%
+Over/Under of 151+	1040	506-519-15	49.4%
+Total	7780	3799-3823-158	49.8%
+
+Overall Line Movement of 2.0 to 2.5 Toward Over
+Movement	# Games	Over Record	Over %
+Over/Under of 0-125.5	749	368-369-12	49.9%
+Over/Under of 126-130.5	788	387-377-24	50.7%
+Over/Under of 131-135.5	1196	598-576-22	50.9%
+Over/Under of 136-140.5	1197	609-571-17	51.6%
+Over/Under of 141-145.5	1248	602-626-20	49.0%
+Over/Under of 146-150.5	870	412-441-17	48.3%
+Over/Under of 151+	902	422-467-13	47.5%
+Total	6950	3398-3427-125	49.8%
+
+Overall Line Movement of 0.5 to 1.5 Toward Over
+Movement	# Games	Over Record	Over %
+Over/Under of 0-125.5	1538	764-735-39	51.0%
+Over/Under of 126-130.5	1988	979-977-32	50.1%
+Over/Under of 131-135.5	3098	1544-1496-58	50.8%
+Over/Under of 136-140.5	3418	1690-1661-67	50.4%
+Over/Under of 141-145.5	3222	1555-1599-68	49.3%
+Over/Under of 146-150.5	2367	1202-1121-44	51.7%
+Over/Under of 151+	2268	1127-1098-43	50.7%
+Total	17899	8861-8687-351	50.5%
+
+Closing Line Same As Opening Line
+Movement	# Games	Over Record	Over %
+Over/Under of 0-125.5	984	513-449-22	53.3%
+Over/Under of 126-130.5	1267	651-595-21	52.2%
+Over/Under of 131-135.5	1994	1003-950-41	51.4%
+Over/Under of 136-140.5	2418	1242-1124-52	52.5%
+Over/Under of 141-145.5	2260	1120-1097-43	50.5%
+Over/Under of 146-150.5	1553	763-766-24	49.9%
+Over/Under of 151+	1588	785-772-31	50.4%
+Total	12064	6077-5753-234	51.4%
+
+Overall Line Movement of 0.5 to 1.5 Toward Under
+Movement	# Games	Over Record	Over %
+Over/Under of 0-125.5	1019	513-486-20	51.4%
+Over/Under of 126-130.5	1579	773-777-29	49.9%
+Over/Under of 131-135.5	2569	1279-1246-44	50.7%
+Over/Under of 136-140.5	3366	1612-1689-65	48.8%
+Over/Under of 141-145.5	3337	1617-1646-74	49.6%
+Over/Under of 146-150.5	2667	1298-1316-53	49.7%
+Over/Under of 151+	2851	1409-1390-52	50.3%
+Total	17388	8501-8550-337	49.9%
+
+Overall Line Movement of 2 or 2.5 Toward Under
+Movement	# Games	Over Record	Over %
+Over/Under of 0-125.5	291	151-131-9	53.5%
+Over/Under of 126-130.5	523	273-245-5	52.7%
+Over/Under of 131-135.5	870	420-439-11	48.9%
+Over/Under of 136-140.5	1316	654-636-26	50.7%
+Over/Under of 141-145.5	1299	629-648-22	49.3%
+Over/Under of 146-150.5	1024	536-476-12	53.0%
+Over/Under of 151+	1205	578-605-22	48.9%
+Total	6528	3241-3180-107	50.5%
+
+Overall Line Movement of 3+ Toward Under
+Movement	# Games	Over Record	Over %
+Over/Under of 0-125.5	195	117-77-1	60.3%
+Over/Under of 126-130.5	401	196-200-5	49.5%
+Over/Under of 131-135.5	804	405-386-13	51.2%
+Over/Under of 136-140.5	1377	676-677-24	50.0%
+Over/Under of 141-145.5	1397	695-675-27	50.7%
+Over/Under of 146-150.5	1209	600-589-20	50.5%
+Over/Under of 151+	1741	814-898-29	47.5%
+Total	7124	3503-3502-119	50.0%
+
+About the Over/Under Movement Data
+These tables show the number of games that went over the closing totals line, based on the difference between the opening and closing totals line, as well has how high that line opened.
+
+-
+The data is grouped into separate tables based on the direction and size of the totals line movement associated with each game, ranging from large moves toward the over to large move towards the under. Within the tables, each line represents a different range of opening totals lines, from games with low totals to those with high totals.
+
+Over Record and Over % refer to the number of games that went over vs. under for each matching scenario, measured against the closing total. Pushes are ignored in the calculation of Over %.
+
+
+ChatGPT said:
+This data offers valuable insights into how line movement impacts Over/Under outcomes in college basketball. Here are some key takeaways:
+
+Strongest Over Trends
+
+When the closing total remains the same as the opening line, the Over tends to hit slightly more often (51.4% overall).
+
+A 3+ point move toward the Over results in a near 50/50 split (49.8%), showing that heavy movement toward the Over isn't necessarily predictive.
+
+Strongest Under Trends
+
+When the total moves 3+ points toward the Under on lower lines (0-125.5), the Under wins significantly (60.3%).
+
+A 2-2.5 point move toward the Under has slight value (50.5% overall), but effectiveness varies by total range.
+
+Games with a 151+ opening total that move 3+ points toward the Under trend more toward the Under (47.5% Over rate).
+
+Neutral Line Movement
+
+Games with minimal movement (0.5-1.5 points in either direction) are almost exactly 50/50, meaning sharp action isn’t creating clear Over/Under edges.
+
+A 2-2.5 point move toward the Over or Under tends to hover around 50%, with no strong predictive value.
+
+Potential Betting Strategies
+Consider the Under in Low Total Games (0-125.5) when the total moves 3+ points down (60.3% hit rate).
+
+Avoid blindly following large Over movements (3+ points toward Over), as they win only 49.8% of the time.
+
+Games where the line doesn’t move tend to slightly favor the Over (51.4% overall), suggesting oddsmakers often set accurate initial totals.
+
+High total games (151+) moving 3+ toward the Under have a strong Under trend (47.5% Over rate), suggesting sharp money might be fading offensive expectations.
