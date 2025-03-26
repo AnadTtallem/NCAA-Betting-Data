@@ -1,0 +1,31 @@
+Potential Insights:
+Winning Percentage vs. Point Spread:
+
+How does the winning percentage change based on the spread?
+
+Are there "sweet spots" where teams perform exceptionally well or poorly?
+
+Performance of Underdogs vs. Favorites:
+
+At what point spreads do underdogs cover more often?
+
+Do large favorites tend to cover or fail to meet expectations?
+
+Profitability Trends:
+
+What spreads offer the best or worst return on investment?
+
+Are there patterns in profitability based on different spread levels?
+
+Spread Distribution:
+
+What are the most common spreads?
+
+Are certain spreads more volatile in results?
+
+Line Movement & Result Correlation (if available in future data):
+
+Does the movement of the line from opening to closing impact outcomes?
+
+Are certain line moves predictive of performance?
+
