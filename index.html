@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NCAA Betting System - Project Summary</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>NCAA Betting System – Project Summary</h1>
+        <p><strong>Project Manager:</strong> You</p>
+        <p><strong>Lead Developer:</strong> ChatGPT (acting as your coding partner)</p>
+    </header>
+
+    <main>
+        <section id="overview">
+            <h2>Overview</h2>
+            <p>This project aims to build a robust NCAA Betting System that leverages both historical data and live data to generate accurate betting predictions. The system is comprised of several integrated components:</p>
+            <ul>
+                <li>Historical Data Ingestion: Loads and cleans historical game data (team stats, betting odds, outcomes) from CSV files.</li>
+                <li>Feature Engineering: Calculates features such as score margins, rolling averages, home/away indicators, and win streaks.</li>
+                <li>Machine Learning Module: Trains a predictive model (e.g., Gradient Boosting Classifier) using historical data.</li>
+                <li>Live Data Integration: Fetches real-time data (injuries, weather, live scores/rankings) via API endpoints.</li>
+                <li>Combined Prediction Service: Merges live and historical features to generate game outcome predictions.</li>
+            </ul>
+        </section>
+
+        <section id="components">
+            <h2>Key Components & Steps</h2>
+
+            <article class="component">
+                <h3>1. Historical Data Pipeline</h3>
+                <p><strong>Function:</strong> <code>load_historical_data(zip_path)</code></p>
+                <p><strong>Purpose:</strong> Reads a ZIP file containing CSV files from historical data, assigns a conference label based on the file name, and converts data types.</p>
+                <p><strong>Usage:</strong></p>
+                <ul>
+                    <li>Update the file path to your local copy of the historical data ZIP file.</li>
+                </ul>
+                <p><strong>Example:</strong></p>
+                <pre><code class="language-python">
+zip_file_path = r"C:\Users\danam\ncaa-api\NCAA-Betting-Data-main.zip"
+historical_df = load_historical_data(zip_file_path)
+                </code></pre>
+            </article>
+
+            <article class="component">
+                <h3>2. Feature Engineering Module</h3>
+                <p><strong>Function:</strong> <code>add_features(df)</code></p>
+                <p><strong>Purpose:</strong> Computes additional metrics (score margin, rolling averages, home game indicator, win streak) to enrich the data.</p>
+                <p><strong>Usage:</strong></p>
+                <pre><code class="language-python">
+historical_df = add_features(historical_df)
+                </code></pre>
+            </article>
+
+            <article class="component">
+                <h3>3. Machine Learning Model Training</h3>
+                <p><strong>Function:</strong> <code>train_model(df)</code></p>
+                <p><strong>Purpose:</strong> Uses the engineered features to train a Gradient Boosting Classifier to predict game outcomes.</p>
+                <p><strong>Usage:</strong></p>
+                <pre><code class="language-python">
+model = train_model(historical_df)
+                </code></pre>
+                <p><strong>Evaluation:</strong> Prints cross-validated accuracy and test set accuracy.</p>
+            </article>
+
+            <article class="component">
+                <h3>4. Live Data Integration Module</h3>
+                <p><strong>Functions:</strong></p>
+                <ul>
+                    <li><code>fetch_injuries_data()</code></li>
+                    <li><code>fetch_weather_data(location)</code></li>
+                    <li><code>fetch_live_rankings()</code></li>
+                </ul>
+                <p><strong>Purpose:</strong> Connects to external APIs to fetch real-time information on injuries, weather conditions, and rankings.</p>
+                <p><strong>Usage:</strong></p>
+                <pre><code class="language-python">
+injuries_data = fetch_injuries_data()
+weather_data = fetch_weather_data("Detroit")
+live_rankings = fetch_live_rankings()
+                </code></pre>
+            </article>
+
+            <article class="component">
+                <h3>5. Combined Prediction Service</h3>
+                <p><strong>Function:</strong> <code>predict_game_outcome(model, live_features)</code></p>
+                <p><strong>Purpose:</strong> Uses live data (transformed into features) to generate predictions via the trained model.</p>
+                <p><strong>Usage:</strong></p>
+                <pre><code class="language-python">
+sample_live_features = {
+    'rolling_margin': 4.5,
+    'location': 'H',
+    'win_streak': 2
+}
+outcome = predict_game_outcome(model, sample_live_features)
+                </code></pre>
+            </article>
+        </section>
+
+        <section id="resources">
+            <h2>Project Resources & Executable Links</h2>
+            <ul>
+                <li>
+                    <strong>NCAA Betting System Repository:</strong>
+                    <a href="https://github.com/Danamanita/NCAA-Betting-System" target="_blank" rel="noopener noreferrer">NCAA Betting System on GitHub</a>
+                    <p>This repository contains your historical data and project files.</p>
+                </li>
+                <li>
+                    <strong>Live Data API (NCAA API):</strong>
+                    <a href="https://github.com/Danamanita/ncaa-api" target="_blank" rel="noopener noreferrer">NCAA API on GitHub</a>
+                    <p>This free API provides real-time NCAA scores, stats, and rankings.</p>
+                </li>
+            </ul>
+        </section>
+
+        <section id="running">
+            <h2>Running the Project</h2>
+            <ol>
+                <li>
+                    <strong>Update Configurations:</strong>
+                    <ul>
+                        <li>Edit <code>main.py</code> to set the correct path for your historical data ZIP file.</li>
+                        <li>Insert your API keys where needed (for weather data, etc.).</li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>Execute the Script:</strong>
+                    <p>Open your Command Prompt or Terminal, navigate to the folder containing <code>main.py</code>, and run:</p>
+                    <pre><code class="language-bash">
+python main.py
+                    </code></pre>
+                    <p>The script will print out debug messages at each step, showing the loaded data, computed features, model accuracy, fetched live data, and a sample prediction.</p>
+                </li>
+                <li>
+                    <strong>Review Output:</strong>
+                    <p>Check that each module is working as expected, then proceed with further enhancements as needed.</p>
+                </li>
+            </ol>
+            <p><em>This document summarizes all the work we’ve done and provides a comprehensive guide to running and extending the NCAA Betting System.</em></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Website generated based on project summary.</p>
+    </footer>
+</body>
+</html>
